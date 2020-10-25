@@ -1,0 +1,113 @@
+.bord {
+  background-color: #fbfbfb;
+}
+
+caption {
+  text-align: left;
+  font: 14px bold #000;
+}
+
+.kidSize {
+  font: 12px #555;
+}
+
+.kidSize td {
+  border: 1px solid #e4e4e4;
+  padding: 10px;
+  text-align: center;
+}
+
+#reFund {
+  border: none;
+}
+
+#reFund td {
+  border: none;
+  text-align: center;
+}
+
+.td #total {
+  border-top: 1px solid #a5a5a5;
+  border-bottom: 1px solid #e4e4e4;
+}
+
+#okMoney {
+  text-align: right;
+  padding-right: 50px;
+}
+
+#add {
+  text-align: right;
+  padding-right: 50px;
+}
+
+#totalMoney {
+  text-align: right;
+  padding-right: 30px;
+}
+
+/*
+.removeLine {
+  border-right: none;
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+}
+
+.removeLine_1 {
+  border-right: none;
+  border-left: none;
+  border-top: 2px solid #a5a5a5;
+  border-bottom: none;
+}
+
+.removeLine_2 {
+  border-right: none;
+  border-left: none;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: none;
+}
+
+.removeLine_3 {
+  border-right: none;
+  border-left: none;
+  border-top: 1px solid #a5a5a5;
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.removeLine_number {
+  border-right: none;
+  border-left: none;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: none;
+  text-align: right;
+  padding-right: 88px;
+}
+
+.removeLine_number1 {
+  border-right: none;
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+  text-align: right;
+  padding-right: 88px;
+}
+
+.removeLine_number2 {
+  border-right: none;
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+  text-align: right;
+  padding-right: 88px;
+}
+
+.removeLine_number3 {
+  border-right: none;
+  border-left: none;
+  border-top: 1px solid #a5a5a5;
+  border-bottom: 1px solid #e4e4e4;
+  text-align: right;
+  padding-right: 88px;
+}
+*/ ;
